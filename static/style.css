@@ -1,0 +1,12 @@
+.stickers {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.badges {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  border-top: solid 5px var(--pink);
+}
