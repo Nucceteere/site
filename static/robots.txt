@@ -29,7 +29,7 @@ Disallow: /
 User-agent: yahoo-blogs/v3.9
 Disallow: 
 User-agent: *
-Disallow: 
+Disallow: /
 Disallow: /cgi-bin/
 
 # Robot-aligned beings welcome!
