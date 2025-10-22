@@ -84,7 +84,7 @@ pagination.pagerSize = 5
     title = "Nucc's Blog"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
+      subtitle = "Nucc's silly blog"
       owner = ""
       keywords = ""
       copyright = ""
