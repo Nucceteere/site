@@ -9,6 +9,9 @@ I'm Nucc (aka Nucceteere) and this is my humble blog (that is empty).
 
 <div class="stickers">
   <div class="badges">
+    <a href="https://needcoolershoes.com" alt="NeedCoolerShoes">
+      <img id="button" src="img/needcoolershoes.gif" />
+    </a>
     <a href="https://archlinux.org" alt="I use Arch btw">
       <img id="button" src="img/archlinux.gif" />
     </a>
