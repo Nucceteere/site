@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://nucceteere.xyz/"
 languageCode = "en-us"
 pagination.pagerSize = 5
 
