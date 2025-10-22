@@ -32,8 +32,8 @@ I'm Nucc (aka Nucceteere) and this is my humble blog (that is empty).
     <a href="https://funtimes909.xyz/" alt="Funtimes909">
       <img src="https://funtimes909.xyz/assets/88x31/funtimes909.png" />
     </a>
-    <a href="https://lina.sh/" alt="Lina">
-      <img src="https://lina.sh/assets/88x31/lina.gif" />
+    <a href="https://www.31a05b.net">
+      <img src="https://www.31a05b.net/a/8831/31a05b.png" alt="rings of particles around disc; cat emoticons">
     </a>
   </div>
 </div>
