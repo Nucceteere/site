@@ -2,6 +2,10 @@ baseurl = "https://nucceteere.xyz/"
 languageCode = "en-us"
 pagination.pagerSize = 5
 
+[sitemap]
+    changefreq = "weekly"
+    priority = 0.5
+
 # Required for Chroma and the custom syntax highlighting.
 [markup.highlight]
   noClasses = false
@@ -37,7 +41,7 @@ pagination.pagerSize = 5
 
   # set post to show the last updated
   # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
-  showLastUpdated = true
+  showLastUpdated = false
 
   enableGitInfo = true
 
@@ -68,7 +72,7 @@ pagination.pagerSize = 5
   # dateFormat = "2006-01-02"
   # Example format, with date, time, and timezone abbreviation:
   # dateFormat = "2006-01-02 3:04:06 PM MST"
-  dateFormat = "02.01.2006 15:04 Istanbul/Europe"
+  dateFormat = "02.01.2006"
 
 
 [params.twitter]
