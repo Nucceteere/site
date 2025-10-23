@@ -11,6 +11,6 @@
   border-top: solid 5px var(--pink);
 }
 
-.badges img {
+:root {
   image-rendering: pixelated;
 }
