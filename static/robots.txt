@@ -7,6 +7,8 @@ User-agent: googlebot-mobile
 Disallow: 
 User-agent: MSNBot
 Disallow: 
+User-agent: Bingbot
+Disallow: 
 User-agent: Slurp
 Disallow: 
 User-agent: Gigabot
