@@ -1,4 +1,5 @@
 User-agent: Googlebot
+Allow: /
 Disallow: 
 User-agent: googlebot-image
 Disallow: 
