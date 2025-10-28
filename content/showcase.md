@@ -3,7 +3,7 @@ title: Showcase
 description: "Projects I worked on"
 date: 2025-10-28T10:49:24.859Z
 preview: ""
-draft: true
+draft: false
 tags: []
 categories: []
 author: Nucceteere
