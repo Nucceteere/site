@@ -9,19 +9,19 @@ I'm Nucc (aka Nucceteere) and this is my humble blog (that is empty).
 
 <div class="stickers">
   <div class="badges">
-    <a href="https://needcoolershoes.com" alt="NeedCoolerShoes">
+    <a href="https://needcoolershoes.com" alt="NeedCoolerShoes" target="_blank">
       <img id="button" src="img/needcoolershoes.gif" />
     </a>
-    <a href="https://archlinux.org" alt="I use Arch btw">
+    <a href="https://archlinux.org" alt="I use Arch btw" target="_blank">
       <img id="button" src="img/archlinux.gif" />
     </a>
-    <a href="https://bitwarden.com" alt="Bitwarden">
+    <a href="https://bitwarden.com" alt="Bitwarden" target="_blank">
       <img id="button" src="img/bitwarden.gif" />
     </a>
-    <a href="https://firefox.com/" alt="Firefox">
+    <a href="https://firefox.com/" alt="Firefox" target="_blank">
       <img id="button" src="img/firefoxnow.gif" />
     </a>
-    <a href="https://thunderbird.net/" alt="Thunderbird">
+    <a href="https://thunderbird.net/" alt="Thunderbird" target="_blank">
       <img id="button" src="img/thunderbird.gif" />
     </a>
     <a alt="Trans Rights!">
@@ -32,13 +32,13 @@ I'm Nucc (aka Nucceteere) and this is my humble blog (that is empty).
 <br>
 <div class="stickers">
   <div class="badges">
-    <a href="https://funtimes909.xyz/" alt="Funtimes909">
+    <a href="https://funtimes909.xyz/" alt="Funtimes909" target="_blank">
       <img src="https://funtimes909.xyz/assets/88x31/funtimes909.png" />
     </a>
-    <a href="https://www.31a05b.net">
+    <a href="https://www.31a05b.net" target="_blank">
       <img src="https://www.31a05b.net/a/8831/31a05b.png" alt="rings of particles around disc; cat emoticons">
     </a>
-    <a href="https://lina.sh/" alt="Lina">
+    <a href="https://lina.sh/" alt="Lina" target="_blank">
       <img src="https://lina.sh/assets/88x31/lina.gif" />
     </a>
   </div>
