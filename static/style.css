@@ -2,6 +2,7 @@
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
+  image-rendering: pixelated;
 }
 
 .badges {
@@ -9,8 +10,5 @@
   flex-flow: row wrap;
   justify-content: center;
   border-top: solid 5px var(--pink);
-}
-
-:root {
   image-rendering: pixelated;
 }
