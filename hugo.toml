@@ -24,7 +24,7 @@ pagination.pagerSize = 5
   contentTypeName = "posts"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 3
+  showMenuItems = 4
 
   # show selector to switch language
   showLanguageSelector = false
@@ -120,6 +120,10 @@ pagination.pagerSize = 5
           identifier = "identity"
           name = "Identity"
           url = "/identity"
+        [[languages.en.menu.main]]
+          identifier = "contact"
+          name = "Contact"
+          url = "/contact"
 
 [module]
   # In case you would like to make changes to the theme and keep it locally in you repository,
