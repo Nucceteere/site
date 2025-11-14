@@ -44,5 +44,8 @@ I'm Nucc (aka Nucceteere) and this is my humble blog (that is empty).
     <a href="https://magmaus3.eu.org/" alt="maia" target="_blank">
       <img src="img/friends/magmaus3.gif" />
     </a>
+    <a href="https://paddy.li/" alt="paddy" target="_blank">
+      <img src="img/friends/paddy.gif" />
+    </a>
   </div>
 </div>
