@@ -47,5 +47,8 @@ I'm Nucc (aka Nucceteere) and this is my humble blog (that is empty).
     <a href="https://paddy.li/" alt="paddy" target="_blank">
       <img src="img/friends/paddy.gif" />
     </a>
+    <a href="https://shrecked.dev/" alt="shrecknt" target="_blank">
+      <img src="img/friends/shrecknt.png" />
+    </a>
   </div>
 </div>
