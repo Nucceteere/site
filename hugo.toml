@@ -117,10 +117,6 @@ pagination.pagerSize = 5
           name = "Showcase"
           url = "/showcase"
         [[languages.en.menu.main]]
-          identifier = "identity"
-          name = "Identity"
-          url = "/identity"
-        [[languages.en.menu.main]]
           identifier = "contact"
           name = "Contact"
           url = "/contact"
