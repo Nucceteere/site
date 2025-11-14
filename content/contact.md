@@ -1,6 +1,7 @@
 +++
 date = '2025-11-14T06:06:49+03:00'
 draft = false
+description = "Contact info"
 title = 'Contact'
 author = 'Nucceteere'
 +++

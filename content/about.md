@@ -1,5 +1,6 @@
 +++
 date = '2025-10-23T17:18:43+03:00'
+description = "About me!"
 draft = false
 author = 'Nucceteere'
 title = 'About'
