@@ -33,13 +33,16 @@ I'm Nucc (aka Nucceteere) and this is my humble blog (that is empty).
 <div class="stickers">
   <div class="badges">
     <a href="https://funtimes909.xyz/" alt="Funtimes909" target="_blank">
-      <img src="https://funtimes909.xyz/assets/88x31/funtimes909.png" />
+      <img src="img/friends/funtimes909.png" />
     </a>
     <a href="https://www.31a05b.net" target="_blank">
-      <img src="https://www.31a05b.net/a/8831/31a05b.png" alt="rings of particles around disc; cat emoticons">
+      <img src="img/friends/31a05b.png" alt="rings of particles around disc; cat emoticons">
     </a>
     <a href="https://lina.sh/" alt="Lina" target="_blank">
-      <img src="https://lina.sh/assets/88x31/lina.gif" />
+      <img src="img/friends/lina.gif" />
+    </a>
+    <a href="https://magmaus3.eu.org/" alt="maia" target="_blank">
+      <img src="img/friends/magmaus3.gif" />
     </a>
   </div>
 </div>
