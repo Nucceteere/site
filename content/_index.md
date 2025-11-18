@@ -32,6 +32,9 @@ I'm Nucc (aka Nucceteere) and this is my humble blog (that is empty).
 <br>
 <div class="stickers">
   <div class="badges">
+    <a href="/" alt="Nucceteere" target="_blank">
+      <img src="img/88x31.png" />
+    </a>
     <a href="https://funtimes909.xyz/" alt="Funtimes909" target="_blank">
       <img src="img/friends/funtimes909.png" />
     </a>
