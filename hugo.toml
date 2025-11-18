@@ -112,18 +112,22 @@ pagination.pagerSize = 5
           identifier = "about"
           name = "About"
           url = "/about"
+          weight = 1
         [[languages.en.menu.main]]
           identifier = "showcase"
           name = "Showcase"
           url = "/showcase"
+          weight = 2
         [[languages.en.menu.main]]
           identifier = "contact"
           name = "Contact"
           url = "/contact"
+          weight = 3
         [[languages.en.menu.main]]
           identifier = "88x31"
           name = "88x31"
           url = "/88x31"
+          weight = 4
 
 [module]
   # In case you would like to make changes to the theme and keep it locally in you repository,
