@@ -55,4 +55,7 @@ I'm Nucc (aka Nucceteere) and this is my humble blog (that is empty).
     </a>
   </div>
 </div>
-<div style="position:fixed; right:1rem; bottom:1rem; color:#fff; opacity:0.1"><h2>Activate Linux</h2>Go to the Settings to activate Linux.</div>
+<div style="position:fixed; right:1rem; bottom:1rem; color:#fff; opacity:0.1">
+  <h2>Activate Linux</h2>
+  Go to the Settings to activate Linux.
+</div>
