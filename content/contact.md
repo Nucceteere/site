@@ -13,6 +13,7 @@ Here's ways you can contact me:
 - Matrix: @nucceteere:matrix.org
 - Signal: nucceteere.17
 - GitHub: [Nucceteere](https://github.com/Nucceteere)
+- Mastodon: [@nucceteere@tech.lgbt](https://tech.lgbt/@nucceteere)
 - Bluesky: [@nucceteere.xyz](https://bsky.app/profile/nucceteere.xyz) (not active)
 
 ## Keys
