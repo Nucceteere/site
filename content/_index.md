@@ -53,6 +53,9 @@ I'm Nucc (aka Nucceteere) and this is my humble blog (that is empty).
     <a href="https://shrecked.dev/" alt="shrecknt" target="_blank">
       <img src="img/friends/shrecknt.png" />
     </a>
+    <a href="https://coinflipcoder.dev/" alt="fabi" target="_blank">
+      <img src="img/friends/fabi.gif" />
+    </a>
   </div>
 </div>
 <div style="position:fixed; right:1rem; bottom:1rem; color:#fff; opacity:0.1">
