@@ -56,6 +56,9 @@ I'm Nucc (aka Nucceteere) and this is my humble blog (that is empty).
     <a href="https://coinflipcoder.dev/" alt="fabi" target="_blank">
       <img src="img/friends/fabi.gif" />
     </a>
+    <a href="https://ncamgnrvngu.eu/" alt="ncamgnrvngu" target="_blank">
+      <img src="img/friends/ncamgnrvngu.png" />
+    </a>
   </div>
 </div>
 <div style="position:fixed; right:1rem; bottom:1rem; color:#fff; opacity:0.1">
