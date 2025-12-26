@@ -18,3 +18,7 @@ I use Python regularly and I'm currently working on learning Go and Rust
 I also manage an Arch Linux Mirror in Turkey: https://mirror.nucc.tr
 
 Thanks for reading my silly blog!
+
+<iframe src="https://en.pronouns.page/card/@nucceteere" style="border:0; width:100%; height:1000px;" loading="lazy" referrerpolicy="no-referrer">
+  <a href="https://en.pronouns.page/@nucceteere" target="_blank" rel="noopener">@nucceteere</a>
+</iframe>
