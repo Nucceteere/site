@@ -27,6 +27,12 @@ I'm Nucc (aka Nucceteere) and this is my humble blog (that is empty).
     <a alt="Trans Rights!">
       <img id="button" src="img/trans_rights_now.png" />
     </a>
+    <a href="https://en.pronouns.page/@nucceteere" alt="Trans">
+      <img id="button" src="img/trans.webp" />
+    </a>
+    <a href="https://en.pronouns.page/@nucceteere" alt="Bi">
+      <img id="button" src="img/bi.webp" />
+    </a>
   </div>
 </div>
 <br>
