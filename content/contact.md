@@ -10,7 +10,7 @@ Here's ways you can contact me:
 
 - Email: ruzgar (at) nucceteere (dot) xyz
 - Discord: nucceteere2
-- Matrix: @nucceteere:matrix.org
+- Matrix: @maya:nucc.tr
 - Signal: nucceteere.17
 - GitHub: [Nucceteere](https://github.com/Nucceteere)
 - Mastodon: [@nucceteere@tech.lgbt](https://tech.lgbt/@nucceteere)
