@@ -24,8 +24,46 @@ I'm Nucc (aka Nucceteere) and this is my humble blog (that is empty).
     <a href="https://thunderbird.net/" alt="Thunderbird" target="_blank">
       <img id="button" src="img/thunderbird.gif" />
     </a>
+    <a alt="Trans Rights!">
+      <img id="button" src="img/trans_rights_now.png" />
+    </a>
+    <a href="https://en.pronouns.page/@nucceteere" alt="Trans">
+      <img id="button" src="img/trans.webp" />
+    </a>
+    <a href="https://en.pronouns.page/@nucceteere" alt="Bi">
+      <img id="button" src="img/bi.webp" />
+    </a>
+  </div>
+</div>
+<br>
+<div class="stickers">
+  <div class="badges">
     <a href="/" alt="Nucceteere" target="_blank">
       <img src="img/88x31.png" />
+    </a>
+    <a href="https://funtimes909.xyz/" alt="Funtimes909" target="_blank">
+      <img src="img/friends/funtimes909.avif" />
+    </a>
+    <a href="https://www.31a05b.net" target="_blank">
+      <img src="img/friends/31a05b.png" alt="rings of particles around disc; cat emoticons">
+    </a>
+    <a href="https://lina.sh/" alt="Lina" target="_blank">
+      <img src="img/friends/lina.gif" />
+    </a>
+    <a href="https://magmaus3.eu.org/" alt="maia" target="_blank">
+      <img src="img/friends/magmaus3.gif" />
+    </a>
+    <a href="https://paddy.li/" alt="paddy" target="_blank">
+      <img src="img/friends/paddy.gif" />
+    </a>
+    <a href="https://shrecked.dev/" alt="shrecknt" target="_blank">
+      <img src="img/friends/shrecknt.png" />
+    </a>
+    <a href="https://coinflipcoder.dev/" alt="fabi" target="_blank">
+      <img src="img/friends/fabi.gif" />
+    </a>
+    <a href="https://ncamgnrvngu.eu/" alt="ncamgnrvngu" target="_blank">
+      <img src="img/friends/ncamgnrvngu.png" />
     </a>
   </div>
 </div>
